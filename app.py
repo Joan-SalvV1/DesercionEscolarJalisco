@@ -18,7 +18,7 @@ df_desercion = pd.DataFrame(desercion_data)
 df_desercion["NOMBRE MUNICIPIO"] = df_desercion["NOMBRE MUNICIPIO"].apply(normalize_text)
 
 # Cargar y filtrar GeoJSON
-with open("jalisco.json", "r", encoding="utf-8") as f:
+with open("Jalisco.json", "r", encoding="utf-8") as f:
     geo_json = json.load(f)
 
 geo_json["features"] = [
