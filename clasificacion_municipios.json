@@ -1,0 +1,877 @@
+[
+    {
+        "NOMBRE MUNICIPIO":"acatic",
+        "DESERCION INTRACURRICULAR":2.88125,
+        "REPROBACION":1.2810416667,
+        "EFICIENCIA TERMINAL":67.373125,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"acatlan de juarez",
+        "DESERCION INTRACURRICULAR":2.7705263158,
+        "REPROBACION":2.7873684211,
+        "EFICIENCIA TERMINAL":72.7357894737,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"ahualulco de mercado",
+        "DESERCION INTRACURRICULAR":1.4175,
+        "REPROBACION":0.12625,
+        "EFICIENCIA TERMINAL":75.8304166667,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"amacueca",
+        "DESERCION INTRACURRICULAR":2.48625,
+        "REPROBACION":0.32875,
+        "EFICIENCIA TERMINAL":93.18125,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"amatitan",
+        "DESERCION INTRACURRICULAR":3.6836363636,
+        "REPROBACION":0.4454545455,
+        "EFICIENCIA TERMINAL":81.6518181818,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"ameca",
+        "DESERCION INTRACURRICULAR":2.9671287129,
+        "REPROBACION":0.868019802,
+        "EFICIENCIA TERMINAL":72.528019802,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"arandas",
+        "DESERCION INTRACURRICULAR":4.8585507246,
+        "REPROBACION":2.8727536232,
+        "EFICIENCIA TERMINAL":65.202173913,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"atemajac de brizuela",
+        "DESERCION INTRACURRICULAR":5.6494117647,
+        "REPROBACION":2.3835294118,
+        "EFICIENCIA TERMINAL":75.9823529412,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"atengo",
+        "DESERCION INTRACURRICULAR":2.9011111111,
+        "REPROBACION":0.8888888889,
+        "EFICIENCIA TERMINAL":78.1377777778,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"atenguillo",
+        "DESERCION INTRACURRICULAR":1.789375,
+        "REPROBACION":0.210625,
+        "EFICIENCIA TERMINAL":73.55875,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"atotonilco el alto",
+        "DESERCION INTRACURRICULAR":3.1018085106,
+        "REPROBACION":1.7592553191,
+        "EFICIENCIA TERMINAL":72.8953191489,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"atoyac",
+        "DESERCION INTRACURRICULAR":1.4875,
+        "REPROBACION":2.8325,
+        "EFICIENCIA TERMINAL":67.2629166667,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"autlan de navarro",
+        "DESERCION INTRACURRICULAR":4.0662962963,
+        "REPROBACION":2.3960493827,
+        "EFICIENCIA TERMINAL":73.9219753086,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"ayotlan",
+        "DESERCION INTRACURRICULAR":4.3998550725,
+        "REPROBACION":1.0804347826,
+        "EFICIENCIA TERMINAL":72.9068115942,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"ayutla",
+        "DESERCION INTRACURRICULAR":3.4383333333,
+        "REPROBACION":0.645,
+        "EFICIENCIA TERMINAL":68.5737037037,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"bolaños",
+        "DESERCION INTRACURRICULAR":5.1951219512,
+        "REPROBACION":1.8709756098,
+        "EFICIENCIA TERMINAL":61.7253658537,
+        "RIESGO":"Alto Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"cabo corrientes",
+        "DESERCION INTRACURRICULAR":4.5253061224,
+        "REPROBACION":1.0997959184,
+        "EFICIENCIA TERMINAL":64.253877551,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"casimiro castillo",
+        "DESERCION INTRACURRICULAR":5.6537142857,
+        "REPROBACION":1.8208571429,
+        "EFICIENCIA TERMINAL":74.9054285714,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"cañadas de obregon",
+        "DESERCION INTRACURRICULAR":6.1235714286,
+        "REPROBACION":0.8757142857,
+        "EFICIENCIA TERMINAL":72.1657142857,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"chapala",
+        "DESERCION INTRACURRICULAR":3.9350980392,
+        "REPROBACION":3.1621568627,
+        "EFICIENCIA TERMINAL":76.1443137255,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"chimaltitan",
+        "DESERCION INTRACURRICULAR":2.1876923077,
+        "REPROBACION":4.4596153846,
+        "EFICIENCIA TERMINAL":59.4061538462,
+        "RIESGO":"Alto Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"chiquilistlan",
+        "DESERCION INTRACURRICULAR":1.118125,
+        "REPROBACION":0.07125,
+        "EFICIENCIA TERMINAL":63.240625,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"cihuatlan",
+        "DESERCION INTRACURRICULAR":4.8912765957,
+        "REPROBACION":1.9368085106,
+        "EFICIENCIA TERMINAL":69.1927659574,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"cocula",
+        "DESERCION INTRACURRICULAR":3.7963829787,
+        "REPROBACION":1.4872340426,
+        "EFICIENCIA TERMINAL":83.1163829787,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"colotlan",
+        "DESERCION INTRACURRICULAR":4.1904444444,
+        "REPROBACION":4.8137777778,
+        "EFICIENCIA TERMINAL":75.998,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"concepcion de buenos aires",
+        "DESERCION INTRACURRICULAR":2.7791666667,
+        "REPROBACION":0.9691666667,
+        "EFICIENCIA TERMINAL":79.2283333333,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"cuautitlan de garcia barragan",
+        "DESERCION INTRACURRICULAR":3.2821428571,
+        "REPROBACION":1.6696428571,
+        "EFICIENCIA TERMINAL":76.6366666667,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"cuautla",
+        "DESERCION INTRACURRICULAR":7.3218181818,
+        "REPROBACION":1.5145454545,
+        "EFICIENCIA TERMINAL":70.7563636364,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"cuquio",
+        "DESERCION INTRACURRICULAR":2.4484210526,
+        "REPROBACION":1.5531578947,
+        "EFICIENCIA TERMINAL":71.6378947368,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"degollado",
+        "DESERCION INTRACURRICULAR":3.1414035088,
+        "REPROBACION":1.6692982456,
+        "EFICIENCIA TERMINAL":66.1684210526,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"ejutla",
+        "DESERCION INTRACURRICULAR":1.8142857143,
+        "REPROBACION":0.1857142857,
+        "EFICIENCIA TERMINAL":82.7442857143,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"el arenal",
+        "DESERCION INTRACURRICULAR":5.719047619,
+        "REPROBACION":6.4295238095,
+        "EFICIENCIA TERMINAL":76.6395238095,
+        "RIESGO":"Alto Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"el grullo",
+        "DESERCION INTRACURRICULAR":4.474375,
+        "REPROBACION":3.1290625,
+        "EFICIENCIA TERMINAL":84.3865625,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"el limon",
+        "DESERCION INTRACURRICULAR":3.272,
+        "REPROBACION":0.5333333333,
+        "EFICIENCIA TERMINAL":63.87,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"el salto",
+        "DESERCION INTRACURRICULAR":3.2343137255,
+        "REPROBACION":2.4069607843,
+        "EFICIENCIA TERMINAL":73.3591176471,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"encarnacion de diaz",
+        "DESERCION INTRACURRICULAR":4.8677358491,
+        "REPROBACION":2.1948113208,
+        "EFICIENCIA TERMINAL":64.3533018868,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"etzatlan",
+        "DESERCION INTRACURRICULAR":4.3925,
+        "REPROBACION":1.2609375,
+        "EFICIENCIA TERMINAL":70.67375,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"gomez farias",
+        "DESERCION INTRACURRICULAR":3.5557692308,
+        "REPROBACION":3.5084615385,
+        "EFICIENCIA TERMINAL":70.9869230769,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"guachinango",
+        "DESERCION INTRACURRICULAR":2.1584210526,
+        "REPROBACION":0.8215789474,
+        "EFICIENCIA TERMINAL":70.75,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"guadalajara",
+        "DESERCION INTRACURRICULAR":4.3543888354,
+        "REPROBACION":4.1118575553,
+        "EFICIENCIA TERMINAL":73.7267949952,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"hostotipaquillo",
+        "DESERCION INTRACURRICULAR":2.6091891892,
+        "REPROBACION":0.1818918919,
+        "EFICIENCIA TERMINAL":85.57,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"huejucar",
+        "DESERCION INTRACURRICULAR":3.0252380952,
+        "REPROBACION":1.8028571429,
+        "EFICIENCIA TERMINAL":86.8180952381,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"huejuquilla el alto",
+        "DESERCION INTRACURRICULAR":2.1155172414,
+        "REPROBACION":1.5944827586,
+        "EFICIENCIA TERMINAL":65.5531034483,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"ixtlahuacan de los membrillos",
+        "DESERCION INTRACURRICULAR":4.4391489362,
+        "REPROBACION":2.8536170213,
+        "EFICIENCIA TERMINAL":63.1312765957,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"ixtlahuacan del rio",
+        "DESERCION INTRACURRICULAR":4.0536363636,
+        "REPROBACION":2.7659090909,
+        "EFICIENCIA TERMINAL":67.8162121212,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"jalostotitlan",
+        "DESERCION INTRACURRICULAR":5.02,
+        "REPROBACION":2.7753846154,
+        "EFICIENCIA TERMINAL":67.3426153846,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"jamay",
+        "DESERCION INTRACURRICULAR":3.1426086957,
+        "REPROBACION":0.8334782609,
+        "EFICIENCIA TERMINAL":77.4234782609,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"jesus maria",
+        "DESERCION INTRACURRICULAR":2.8237837838,
+        "REPROBACION":1.0924324324,
+        "EFICIENCIA TERMINAL":62.8766216216,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"jilotlan de los dolores",
+        "DESERCION INTRACURRICULAR":3.0841538462,
+        "REPROBACION":1.6646153846,
+        "EFICIENCIA TERMINAL":52.0210769231,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"jocotepec",
+        "DESERCION INTRACURRICULAR":3.1634883721,
+        "REPROBACION":2.7330232558,
+        "EFICIENCIA TERMINAL":77.5760465116,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"juanacatlan",
+        "DESERCION INTRACURRICULAR":4.3180952381,
+        "REPROBACION":3.2252380952,
+        "EFICIENCIA TERMINAL":82.029047619,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"juchitlan",
+        "DESERCION INTRACURRICULAR":1.6711764706,
+        "REPROBACION":0.2570588235,
+        "EFICIENCIA TERMINAL":70.59,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"la barca",
+        "DESERCION INTRACURRICULAR":4.204875,
+        "REPROBACION":5.011375,
+        "EFICIENCIA TERMINAL":81.411375,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"la huerta",
+        "DESERCION INTRACURRICULAR":5.258358209,
+        "REPROBACION":2.0695522388,
+        "EFICIENCIA TERMINAL":69.0898507463,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"la manzanilla de la paz",
+        "DESERCION INTRACURRICULAR":2.77,
+        "REPROBACION":0.0,
+        "EFICIENCIA TERMINAL":75.608,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"lagos de moreno",
+        "DESERCION INTRACURRICULAR":3.8987795276,
+        "REPROBACION":3.5341338583,
+        "EFICIENCIA TERMINAL":73.2683070866,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"magdalena",
+        "DESERCION INTRACURRICULAR":7.426969697,
+        "REPROBACION":1.91,
+        "EFICIENCIA TERMINAL":75.5433333333,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"mascota",
+        "DESERCION INTRACURRICULAR":2.7925,
+        "REPROBACION":1.8627083333,
+        "EFICIENCIA TERMINAL":77.3210416667,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"mazamitla",
+        "DESERCION INTRACURRICULAR":2.8912820513,
+        "REPROBACION":1.5228205128,
+        "EFICIENCIA TERMINAL":58.9038461538,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"mexticacan",
+        "DESERCION INTRACURRICULAR":2.0621052632,
+        "REPROBACION":0.8215789474,
+        "EFICIENCIA TERMINAL":82.5615789474,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"mezquitic",
+        "DESERCION INTRACURRICULAR":4.0685,
+        "REPROBACION":2.7285833333,
+        "EFICIENCIA TERMINAL":54.3081666667,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"mixtlan",
+        "DESERCION INTRACURRICULAR":1.944375,
+        "REPROBACION":3.45875,
+        "EFICIENCIA TERMINAL":65.6725,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"ocotlan",
+        "DESERCION INTRACURRICULAR":4.7389411765,
+        "REPROBACION":3.0925882353,
+        "EFICIENCIA TERMINAL":79.626,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"ojuelos de jalisco",
+        "DESERCION INTRACURRICULAR":3.0451020408,
+        "REPROBACION":4.2016326531,
+        "EFICIENCIA TERMINAL":79.4083673469,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"pihuamo",
+        "DESERCION INTRACURRICULAR":3.1578,
+        "REPROBACION":1.7558,
+        "EFICIENCIA TERMINAL":73.3298,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"poncitlan",
+        "DESERCION INTRACURRICULAR":3.9886206897,
+        "REPROBACION":4.9287931034,
+        "EFICIENCIA TERMINAL":85.8136206897,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"puerto vallarta",
+        "DESERCION INTRACURRICULAR":4.3127272727,
+        "REPROBACION":4.4051652893,
+        "EFICIENCIA TERMINAL":69.0765702479,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"quitupan",
+        "DESERCION INTRACURRICULAR":4.5515625,
+        "REPROBACION":2.17734375,
+        "EFICIENCIA TERMINAL":56.764375,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san cristobal de la barranca",
+        "DESERCION INTRACURRICULAR":3.8017857143,
+        "REPROBACION":0.1539285714,
+        "EFICIENCIA TERMINAL":45.0064285714,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san diego de alejandria",
+        "DESERCION INTRACURRICULAR":3.0385714286,
+        "REPROBACION":0.34,
+        "EFICIENCIA TERMINAL":56.9128571429,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san gabriel",
+        "DESERCION INTRACURRICULAR":2.7418181818,
+        "REPROBACION":0.2268181818,
+        "EFICIENCIA TERMINAL":65.4820454545,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san ignacio cerro gordo",
+        "DESERCION INTRACURRICULAR":5.034,
+        "REPROBACION":1.8276,
+        "EFICIENCIA TERMINAL":78.9758,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san juan de los lagos",
+        "DESERCION INTRACURRICULAR":4.1021875,
+        "REPROBACION":2.1942708333,
+        "EFICIENCIA TERMINAL":73.2444791667,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san juanito de escobedo",
+        "DESERCION INTRACURRICULAR":2.4576190476,
+        "REPROBACION":2.7142857143,
+        "EFICIENCIA TERMINAL":73.7066666667,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san julian",
+        "DESERCION INTRACURRICULAR":2.2145,
+        "REPROBACION":1.81,
+        "EFICIENCIA TERMINAL":58.0825,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san marcos",
+        "DESERCION INTRACURRICULAR":1.34,
+        "REPROBACION":2.2057142857,
+        "EFICIENCIA TERMINAL":71.5928571429,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san martin de bolaños",
+        "DESERCION INTRACURRICULAR":4.8388888889,
+        "REPROBACION":2.2755555556,
+        "EFICIENCIA TERMINAL":65.7933333333,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san martin hidalgo",
+        "DESERCION INTRACURRICULAR":2.7733333333,
+        "REPROBACION":0.5070588235,
+        "EFICIENCIA TERMINAL":81.848627451,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san miguel el alto",
+        "DESERCION INTRACURRICULAR":2.5513432836,
+        "REPROBACION":1.5667164179,
+        "EFICIENCIA TERMINAL":71.5267164179,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san pedro tlaquepaque",
+        "DESERCION INTRACURRICULAR":3.3729126214,
+        "REPROBACION":4.2630097087,
+        "EFICIENCIA TERMINAL":77.0518770227,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"san sebastian del oeste",
+        "DESERCION INTRACURRICULAR":2.4391111111,
+        "REPROBACION":2.5486666667,
+        "EFICIENCIA TERMINAL":65.1762222222,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"santa maria de los angeles",
+        "DESERCION INTRACURRICULAR":3.0315,
+        "REPROBACION":3.399,
+        "EFICIENCIA TERMINAL":82.529,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"santa maria del oro",
+        "DESERCION INTRACURRICULAR":4.2725,
+        "REPROBACION":4.815,
+        "EFICIENCIA TERMINAL":39.14125,
+        "RIESGO":"Alto Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"sayula",
+        "DESERCION INTRACURRICULAR":2.962,
+        "REPROBACION":1.9936666667,
+        "EFICIENCIA TERMINAL":79.467,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tala",
+        "DESERCION INTRACURRICULAR":3.556875,
+        "REPROBACION":2.574375,
+        "EFICIENCIA TERMINAL":74.69046875,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"talpa de allende",
+        "DESERCION INTRACURRICULAR":2.1366101695,
+        "REPROBACION":3.6183050847,
+        "EFICIENCIA TERMINAL":63.2511864407,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tamazula de gordiano",
+        "DESERCION INTRACURRICULAR":3.5996039604,
+        "REPROBACION":2.2917821782,
+        "EFICIENCIA TERMINAL":58.621980198,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tapalpa",
+        "DESERCION INTRACURRICULAR":2.5133333333,
+        "REPROBACION":4.1780952381,
+        "EFICIENCIA TERMINAL":73.6511904762,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tecalitlan",
+        "DESERCION INTRACURRICULAR":6.8614285714,
+        "REPROBACION":1.2567857143,
+        "EFICIENCIA TERMINAL":41.1830357143,
+        "RIESGO":"Alto Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"techaluta de montenegro",
+        "DESERCION INTRACURRICULAR":2.6018181818,
+        "REPROBACION":1.33,
+        "EFICIENCIA TERMINAL":73.0881818182,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tecolotlan",
+        "DESERCION INTRACURRICULAR":2.892195122,
+        "REPROBACION":1.4346341463,
+        "EFICIENCIA TERMINAL":71.4963414634,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tenamaxtlan",
+        "DESERCION INTRACURRICULAR":6.0335294118,
+        "REPROBACION":1.5411764706,
+        "EFICIENCIA TERMINAL":67.9664705882,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"teocaltiche",
+        "DESERCION INTRACURRICULAR":3.13,
+        "REPROBACION":2.5777083333,
+        "EFICIENCIA TERMINAL":75.3865625,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"teocuitatlan de corona",
+        "DESERCION INTRACURRICULAR":3.4423333333,
+        "REPROBACION":0.1686666667,
+        "EFICIENCIA TERMINAL":77.9523333333,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tepatitlan de morelos",
+        "DESERCION INTRACURRICULAR":4.2136407767,
+        "REPROBACION":2.2790776699,
+        "EFICIENCIA TERMINAL":71.5344174757,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tequila",
+        "DESERCION INTRACURRICULAR":2.2904166667,
+        "REPROBACION":1.5144791667,
+        "EFICIENCIA TERMINAL":73.9144791667,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"teuchitlan",
+        "DESERCION INTRACURRICULAR":3.3869230769,
+        "REPROBACION":5.9815384615,
+        "EFICIENCIA TERMINAL":70.0546153846,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tizapan el alto",
+        "DESERCION INTRACURRICULAR":3.1774193548,
+        "REPROBACION":2.6358064516,
+        "EFICIENCIA TERMINAL":82.1370967742,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tlajomulco de zuñiga",
+        "DESERCION INTRACURRICULAR":3.7074763407,
+        "REPROBACION":3.3595583596,
+        "EFICIENCIA TERMINAL":66.3084542587,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"toliman",
+        "DESERCION INTRACURRICULAR":1.9048717949,
+        "REPROBACION":0.6446153846,
+        "EFICIENCIA TERMINAL":57.3617948718,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tomatlan",
+        "DESERCION INTRACURRICULAR":4.6944067797,
+        "REPROBACION":3.2359322034,
+        "EFICIENCIA TERMINAL":72.928220339,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tonala",
+        "DESERCION INTRACURRICULAR":4.7275581395,
+        "REPROBACION":3.2629457364,
+        "EFICIENCIA TERMINAL":73.4419767442,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tonaya",
+        "DESERCION INTRACURRICULAR":2.1938095238,
+        "REPROBACION":2.4157142857,
+        "EFICIENCIA TERMINAL":50.3404761905,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tonila",
+        "DESERCION INTRACURRICULAR":5.1518181818,
+        "REPROBACION":1.8409090909,
+        "EFICIENCIA TERMINAL":83.4072727273,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"totatiche",
+        "DESERCION INTRACURRICULAR":4.01,
+        "REPROBACION":3.0033333333,
+        "EFICIENCIA TERMINAL":56.5627777778,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tototlan",
+        "DESERCION INTRACURRICULAR":4.2223913043,
+        "REPROBACION":0.972826087,
+        "EFICIENCIA TERMINAL":73.5434782609,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tuxcacuesco",
+        "DESERCION INTRACURRICULAR":2.702,
+        "REPROBACION":2.4492,
+        "EFICIENCIA TERMINAL":59.5636,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tuxcueca",
+        "DESERCION INTRACURRICULAR":3.7286666667,
+        "REPROBACION":2.9673333333,
+        "EFICIENCIA TERMINAL":64.7853333333,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"tuxpan",
+        "DESERCION INTRACURRICULAR":4.3325,
+        "REPROBACION":2.6158333333,
+        "EFICIENCIA TERMINAL":74.5522916667,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"union de san antonio",
+        "DESERCION INTRACURRICULAR":3.1537037037,
+        "REPROBACION":2.1988888889,
+        "EFICIENCIA TERMINAL":62.005,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"union de tula",
+        "DESERCION INTRACURRICULAR":4.6212121212,
+        "REPROBACION":1.5484848485,
+        "EFICIENCIA TERMINAL":77.1784848485,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"valle de guadalupe",
+        "DESERCION INTRACURRICULAR":2.679,
+        "REPROBACION":1.902,
+        "EFICIENCIA TERMINAL":66.7,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"valle de juarez",
+        "DESERCION INTRACURRICULAR":8.5625,
+        "REPROBACION":2.950625,
+        "EFICIENCIA TERMINAL":61.31125,
+        "RIESGO":"Alto Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"villa corona",
+        "DESERCION INTRACURRICULAR":2.8084,
+        "REPROBACION":0.922,
+        "EFICIENCIA TERMINAL":83.4076,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"villa guerrero",
+        "DESERCION INTRACURRICULAR":4.5780952381,
+        "REPROBACION":2.2914285714,
+        "EFICIENCIA TERMINAL":61.2252380952,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"villa hidalgo",
+        "DESERCION INTRACURRICULAR":2.0451282051,
+        "REPROBACION":2.8205128205,
+        "EFICIENCIA TERMINAL":77.4917948718,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"villa purificacion",
+        "DESERCION INTRACURRICULAR":4.9829310345,
+        "REPROBACION":0.6181034483,
+        "EFICIENCIA TERMINAL":68.4139655172,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"yahualica de gonzalez gallo",
+        "DESERCION INTRACURRICULAR":5.2330357143,
+        "REPROBACION":2.2098214286,
+        "EFICIENCIA TERMINAL":67.9173214286,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"zacoalco de torres",
+        "DESERCION INTRACURRICULAR":2.806097561,
+        "REPROBACION":2.5436585366,
+        "EFICIENCIA TERMINAL":84.7302439024,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"zapopan",
+        "DESERCION INTRACURRICULAR":4.1512142039,
+        "REPROBACION":4.7938831615,
+        "EFICIENCIA TERMINAL":71.2104696449,
+        "RIESGO":"Riesgo Moderado"
+    },
+    {
+        "NOMBRE MUNICIPIO":"zapotiltic",
+        "DESERCION INTRACURRICULAR":2.968974359,
+        "REPROBACION":2.5279487179,
+        "EFICIENCIA TERMINAL":82.1761538462,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"zapotitlan de vadillo",
+        "DESERCION INTRACURRICULAR":3.6261290323,
+        "REPROBACION":0.4619354839,
+        "EFICIENCIA TERMINAL":78.6658064516,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"zapotlan del rey",
+        "DESERCION INTRACURRICULAR":2.6395348837,
+        "REPROBACION":2.1455813953,
+        "EFICIENCIA TERMINAL":76.7651162791,
+        "RIESGO":"Bajo Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"zapotlan el grande",
+        "DESERCION INTRACURRICULAR":4.8639325843,
+        "REPROBACION":4.4491011236,
+        "EFICIENCIA TERMINAL":71.9851685393,
+        "RIESGO":"Alto Riesgo"
+    },
+    {
+        "NOMBRE MUNICIPIO":"zapotlanejo",
+        "DESERCION INTRACURRICULAR":4.0708256881,
+        "REPROBACION":1.8125688073,
+        "EFICIENCIA TERMINAL":76.6167889908,
+        "RIESGO":"Bajo Riesgo"
+    }
+]
