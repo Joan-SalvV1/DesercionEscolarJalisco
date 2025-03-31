@@ -45,6 +45,27 @@ for feature in geo_json['features']:
             'EFICIENCIA': 'N/D'
         })
 
+# Sidebar con controles
+with st.sidebar:
+    st.header("🔍 Filtros y Búsqueda")
+    
+    # Buscador de municipios
+    municipios = [f.title() for f in df_desercion["NOMBRE MUNICIPIO"].unique()]
+    selected_municipio = st.selectbox("Buscar municipio:", sorted(municipios))
+    
+    # Filtro de riesgo
+    riesgos = ["Bajo Riesgo", "Riesgo Moderado", "Alto Riesgo"]
+    riesgo_filter = st.multiselect("Filtrar por riesgo:", riesgos, default=riesgos)
+
+# Filtrar GeoJSON según selección
+geo_json_filtrado = {
+    "type": "FeatureCollection",
+    "features": [
+        f for f in geo_json["features"]
+        if f['properties']['RIESGO'] in riesgo_filter
+    ]
+}
+
 # Paleta de colores para riesgos
 color_map = {
     "Bajo Riesgo": "#2ecc71",
@@ -101,4 +122,4 @@ with col2:
 
 # Mostrar tabla de datos
 st.subheader("Datos Detallados")
-st.dataframe(df_desercion[["NOMBRE MUNICIPIO", "DESERCION INTRACURRICULAR", "RIESGO"]].sort_values("RIESGO"))
+st.dataframe(df_desercion[["NOMBRE MUNICIPIO", "DESERCION INTRACURRICULAR", "RIESGO"]].sort_values("NOMBRE MUNICIPIO"))
