@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  streamlit-app:  
+    build: 
+      context: .  
+      dockerfile: Dockerfile  
+    container_name: streamlit-container  
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
+    volumes:
+      - .:/app
+    environment:
+      - STREAMLIT_SERVER_PORT=8501
